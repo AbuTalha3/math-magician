@@ -45,26 +45,29 @@ code {
 }
 
 .button-container {
-  background-color: #2f15d5;
+  background-color: #f5f9f5;
 }
 
 .btn {
   background-color: #c2c8c2;
   width: 25%;
-  height: 12vh;
+  height: 10vh;
   font-size: medium;
+  border: rgb(230, 227, 227) solid 0.6px;
 }
 
 .orange {
-  background-color: #ecb615;
+  background-color: #faa32a;
   width: 25%;
-  height: 12vh;
+  height: 10vh;
   font-size: medium;
+  border: rgb(233, 230, 230) solid 0.6px;
 }
 
 .zero-btn {
   background-color: #c2c8c2;
   width: 50%;
-  height: 12vh;
+  height: 10vh;
   font-size: medium;
+  border: rgb(234, 231, 231) solid 0.6px;
 }
