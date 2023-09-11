@@ -28,7 +28,7 @@ code {
 
 .outer-container {
   min-height: 100vh;
-  width: 60%;
+  width: 40%;
   display: flex;
   flex-direction: column;
   margin-left: 200px;
