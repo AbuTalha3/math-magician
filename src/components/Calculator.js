@@ -33,7 +33,7 @@ function Calculator() {
           <Button onClick={() => handleClick('7')} className="btn" label="7" />
           <Button onClick={() => handleClick('8')} className="btn" label="8" />
           <Button onClick={() => handleClick('9')} className="btn" label="9" />
-          <Button onClick={() => handleClick('*')} className="orange" label="*" />
+          <Button onClick={() => handleClick('x')} className="orange" label="x" />
         </div>
         <div className="first-line">
           <Button onClick={() => handleClick('4')} className="btn" label="4" />
