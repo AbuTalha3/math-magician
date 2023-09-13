@@ -1,20 +1,3 @@
-// import Button from './Button';
-// import calculate from '../logic/calculate';
-
-// const Calculator = () => (
-//   <div className="outer-container">
-//     <Screen />
-//     <Button />
-//   </div>
-// );
-
-// const Screen = () => (
-//   <div className="header-calc">
-//     <p>0</p>
-//   </div>
-// );
-// export default Calculator;
-
 import React, { useState } from 'react';
 import Button from './Button';
 import calculate from '../logic/calculate';

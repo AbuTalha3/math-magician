@@ -72,19 +72,3 @@ code {
   font-size: medium;
   border: rgb(243, 240, 240) solid 0.6px;
 }
-
-/* .first-line {
-  display: flex;
-  justify-content: space-between;
-}
-
-.first-line button {
-  width: 200px;
-  height: 40px;
-  display: flex;
-  justify-content: center;
-  background-color: #e0e0e0;
-  font-size: medium;
-  align-items: center;
-  top: 0;
-} */
