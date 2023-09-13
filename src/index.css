@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  padding: 0;
   font-family:
     -apple-system,
     BlinkMacSystemFont,
@@ -48,7 +49,7 @@ code {
   background-color: #f5f9f5;
 }
 
-.btn {
+.first-line button {
   background-color: #c2c8c2;
   width: 25%;
   height: 10vh;
@@ -56,7 +57,7 @@ code {
   border: rgb(230, 227, 227) solid 0.6px;
 }
 
-.orange {
+.first-line button:last-child {
   background-color: #faa32a;
   width: 25%;
   height: 10vh;
@@ -64,10 +65,26 @@ code {
   border: rgb(233, 230, 230) solid 0.6px;
 }
 
-.zero-btn {
+.button-zero button:first-child {
   background-color: #c2c8c2;
   width: 50%;
   height: 10vh;
   font-size: medium;
-  border: rgb(234, 231, 231) solid 0.6px;
+  border: rgb(243, 240, 240) solid 0.6px;
 }
+
+/* .first-line {
+  display: flex;
+  justify-content: space-between;
+}
+
+.first-line button {
+  width: 200px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  background-color: #e0e0e0;
+  font-size: medium;
+  align-items: center;
+  top: 0;
+} */
