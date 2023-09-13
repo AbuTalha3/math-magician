@@ -25,3 +25,49 @@ code {
     'Courier New',
     monospace;
 }
+
+.outer-container {
+  min-height: 100vh;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+.header-calc {
+  background-color: #8a8991;
+  text-align: end;
+  padding-right: 8px;
+  height: 12vh;
+  color: white;
+  font-size: x-large;
+}
+
+.button-container {
+  background-color: #f5f9f5;
+}
+
+.btn {
+  background-color: #c2c8c2;
+  width: 25%;
+  height: 10vh;
+  font-size: medium;
+  border: rgb(230, 227, 227) solid 0.6px;
+}
+
+.orange {
+  background-color: #faa32a;
+  width: 25%;
+  height: 10vh;
+  font-size: medium;
+  border: rgb(233, 230, 230) solid 0.6px;
+}
+
+.zero-btn {
+  background-color: #c2c8c2;
+  width: 50%;
+  height: 10vh;
+  font-size: medium;
+  border: rgb(234, 231, 231) solid 0.6px;
+}
