@@ -28,12 +28,13 @@ code {
 }
 
 .outer-container {
-  min-height: 100vh;
+  min-height: 60vh;
   width: 40%;
   display: flex;
   flex-direction: column;
   margin-left: 200px;
   margin-top: 50px;
+  background-color: #e00606;
 }
 
 .header-calc {
