@@ -32,9 +32,9 @@ code {
   width: 40%;
   display: flex;
   flex-direction: column;
-  margin-left: 200px;
-  margin-top: 50px;
-  background-color: #e00606;
+  margin-left: 850px;
+  margin-top: 40px;
+  background-color: #dcc6c6;
 }
 
 .header-calc {

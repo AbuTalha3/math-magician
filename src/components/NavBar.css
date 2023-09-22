@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(245, 243, 247);
+  font-family: 'Comic Sans MS', 'Helvetica Neue';
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content:flex-end;
+  gap: 15px;
+  padding-right: 20px;
+  list-style: none;
+}
+
+.list li {
+  font-size: large;
+}
+
+.list a {
+  text-decoration: none;
+  color: rgb(155, 146, 202);
+  font-weight: bolder;
+  font-size: 1.25rem;  
+  border-right: 2px solid black;  
+  padding-right: 10px;
+  text-decoration: underline;
+}
+
+.list li b {
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+  font-size: 1.25rem;
+}
+
+.heading-div {
+  background-color: #f3f5f6;
+}
